@@ -2,4 +2,4 @@ module adventofcode
 
 go 1.14
 
-require github.com/cheggaaa/pb/v3 v3.0.4
+require github.com/davecgh/go-spew v1.1.1
